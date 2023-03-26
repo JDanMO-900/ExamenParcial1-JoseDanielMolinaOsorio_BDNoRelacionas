@@ -1,0 +1,103 @@
+[{
+  "_id": 1,
+  "privileges": [],
+  "Año de estreno": "2014",
+  "Crítica": "Es una gran película ",
+  "Director": "Christopher Nolan",
+  "Género": "Sci-fi",
+  "Nombre": "Interestellar",
+  "Puntuación": "8.6",
+  "Reparto": "Matthew McConaughey, Anne Hathaway",
+  "Sinopsis": "Un equipo de exploradores viaja a través de un agujero de gusano en el espacio."
+},{
+  "_id": 2,
+  "privileges": [],
+  "Año de estreno": "2016",
+  "Crítica": "Muy buena película",
+  "Director": "Naoko Yamada",
+  "Género": "Anime",
+  "Nombre": "A Silent Voice: The Movie",
+  "Puntuación": "8.1",
+  "Reparto": "Shoya Ishida, Shoko Nishimiya",
+  "Sinopsis": "Un joven acosa a una persona con problemas auditivos pero su vida cambia"
+},{
+  "_id": 3,
+  "Nombre": "Jurassic Park",
+  "Año de estreno": "1993",
+  "Género": "Acci[on",
+  "puntuación": "8.2",
+  "Crítica": "8.2",
+  "Sinopsis": "Un paleontólogo pragmático que recorre un parque temático de dinasaurios que se vuelve un caoos",
+  "Director": "Steven Spielberg",
+  "Reparto": "Michael Crichton"
+},{
+  "_id": 4,
+  "Nombre": "El Rey León",
+  "Año de estreno": "1994",
+  "Género": "Animación",
+  "puntuación": "8.5",
+  "Crítica": "Excelente película",
+  "Sinopsis": "Trata sobre un léon que mataron a su padre y volvera a reinar en la selva",
+  "Director": "Roger Allers",
+  "Reparto": "Simba, Scar, Timón, Pumba"
+},{
+  "_id": 5,
+  "Nombre": "Toy Story",
+  "Año de estreno": "1995",
+  "Género": "Animación",
+  "puntuación": "8.3",
+  "Crítica": "Excelente",
+  "Sinopsis": "Muñecos que simulan no tener vida pero tienen una gran aventura para rescatar a un amigo",
+  "Director": "John Lasseter",
+  "Reparto": "Buddy, señor cara de papa, Buz Lightyear, Rex"
+},{
+  "_id": 6,
+  "Nombre": "Nemo",
+  "Año de estreno": "2003",
+  "Género": "Animación",
+  "puntuación": "8.2",
+  "Crítica": "Excelente",
+  "Sinopsis": "Un pez payaso se aventura a salar a su hijo que fue capturado",
+  "Director": "Andrew Santon",
+  "Reparto": "Merlin, Dory, Nemo"
+},{
+  "_id": 7,
+  "Nombre": "Shrek",
+  "Año de estreno": "2001",
+  "Género": "Animación",
+  "puntuación": "7.9",
+  "Crítica": "Excelente película",
+  "Sinopsis": "Un malvado señor exilia criaturas de cuentos de hadas al pantano de un ogro gruñón salva al reino y la princesa",
+  "Director": "Andres Adamson",
+  "Reparto": "Shrek, Fiona, Burro"
+},{
+  "_id": 8,
+  "Nombre": "Era del hielo",
+  "Año de estreno": "2002",
+  "Género": "Animación",
+  "puntuación": "7.5",
+  "Crítica": "Excelente",
+  "Sinopsis": "La historia gira en torno a héroes bajo cero: un mamut lanudo, un tigre dientes de sable",
+  "Director": "",
+  "Reparto": "Diego, Sid, Manfredo, Soto"
+},{
+  "_id": 9,
+  "Nombre": "Kung Fu Panda",
+  "Año de estreno": "2008",
+  "Género": "Animación",
+  "puntuación": "7.6",
+  "Crítica": "Excelente película",
+  "Sinopsis": "oUn panda que se siente un fracaso descubre que es el siguiente guerrero dragón",
+  "Director": "Mark Osborne",
+  "Reparto": "Po, Tai Lung, Tigresa, Shifu"
+},{
+  "_id": 10,
+  "Nombre": "El gato con botas 2: El ultimo deseo",
+  "Año de estreno": "2022",
+  "Género": "Animación",
+  "puntuación": "7.9",
+  "Crítica": "Excelente película",
+  "Sinopsis": "Un gato que piensa unicamente en sus deseos y asustado de la muerte, descubre que la empatiía es importante",
+  "Director": "Joel Crawford",
+  "Reparto": "El gato con botas, Kitty patas suaves, Perrito"
+}]
